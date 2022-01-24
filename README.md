@@ -30,6 +30,8 @@
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
 
 <br />
+<br/>
+<br/>
 <h3>Connect with me:</h3>
 
 [<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:kartikeymahawar1234@gmail.com)
