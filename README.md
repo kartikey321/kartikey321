@@ -1,4 +1,4 @@
-<h1 align ="center">Hi there, This is Kartikey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align ="center">Hi there, This is Kartikey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <br/>
 
 <img align="right" alt="gif" width="320px" src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b761120f0d240f294596f7b86dc05b382f8a688140e8a&rid=giphy.gif&ct=g" />
