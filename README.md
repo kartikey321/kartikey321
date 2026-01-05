@@ -1,55 +1,134 @@
-<h1 align ="center">Hi there, This is Kartikey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<br/>
+# Hi there, I'm Kartikey Mahawar 👋
 
-<img align="right" alt="gif" width="320px" src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b761120f0d240f294596f7b86dc05b382f8a688140e8a&rid=giphy.gif&ct=g" />
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-mahawarkartikey.in-blue?style=for-the-badge&logo=google-chrome)](https://mahawarkartikey.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kartikey-mahawar/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@kartikeymahawar1234)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kartikeymahawar1234@gmail.com)
 
+</div>
 
-- 🔭 I’m currently working on improving my skills in Android Development
-- 🌱 I’m currently learning blockchain development
-- 👯 I’m looking to collaborate with other developers in hackathons and tech events
-- 🤔 I’m looking for help with blockchain in android
-- 💬 Ask me about any tech related stuff
-- ⚡ Fun fact: I love learning new stuff
-<br/>
+## 🚀 About Me
 
-<br/>
+Lead Flutter Fullstack Developer with **~3 years** of experience building high-performance, cross-platform applications. I specialize in architecting concurrent Flutter frontends, real-time pipelines (gRPC, WebSockets), and distributed backend systems. Currently scaling multi-tenant SaaS platforms at **Cladbe** with 10K+ daily users.
 
+💡 **What I Do:**
+- Build production-ready cross-platform apps (Web, iOS, Android, macOS, Windows)
+- Design event-driven microservices and real-time sync systems
+- Create open-source tools for the Dart/Flutter ecosystem
+- Win hackathons (5+ major wins including SIH 2022 & GrabHack 2025)
 
-### Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="55px" height="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="55px" height="55px"  src="https://img.icons8.com/fluency/48/000000/flutter.png" />
-<img align="left" alt="Flutter" width="55px" height="55px"  src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
-<img align="left" alt="Android Studio" width="55px" height="55px"  src="https://img.icons8.com/color/48/000000/android-studio--v2.png" />
-<img align="left" alt="Dart" width="55px" height="55px"  src="https://img.icons8.com/color/48/000000/dart.png" />
-<img align="left" alt="Java" width="55px" height="55px"  src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
-<img align="left" alt="Kotlin" width="55px" height="55px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" alt="C" width="55px" height="55px"  src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="C++" width="55px" height="55px"  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Solidity" width="55px" height="55px"  src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99"/>
-<img align="left" alt="Ethereum" width="55px" height="55px"  src="https://icons-for-free.com/iconfiles/png/512/eth+ethcoin+etherium+icon-1320162857971241492.png"/>
-<img align="left" alt="Python" width="55px" height="55px"  src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="Postman" width="55px" height="55px"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"/>
+## 🏆 Achievements
 
-<br />
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h3>Connect with me:</h3>
+```
+🥇 GrabHack 2025 (Backend track) - 2nd Prize Winner (₹2,00,000)
+🥇 Smart India Hackathon 2022 - 1st Prize Winner
+🥇 Defence Innovation Hackathon 2022 - 1st Prize Winner
+🥇 Nasscom Academic Grand Challenge (Wells Fargo) - 1st Prize
+🥉 Bajaj Finserv Hackrx 3.0 - Third Prize Winner
+🥉 Hack The Mountains 2.0 - 3rd Prize Winner
+```
 
-[<img align="left" alt="Gmail" width="40px" height="40px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>](mailto:kartikeymahawar1234@gmail.com)
-[<img align="left" alt="LinkedIn | LinkedIn" width="40px" height="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/kartikey-mahawar/)
-[<img align="left" alt="Instagram | Instagram" width="40px" height="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/kartikeymahawar/)
-<br/>
-<br />
+---
 
-![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikey321&show_icons=true&count_private=true)
+## 🛠️ Tech Stack
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kartikey321&theme=nord&column=8)
+### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
- <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartikey321&repo=cab_rider)](https://github.com/kartikey321/cab_rider)--!?
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey321&layout=compact)](https://github.com/kartikey321/cab_rider)
+### Backend & Real-Time
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 🔥 Featured Open Source
+
+### 🎯 [Fletch](https://github.com/kartikey321/fletch) - Express for Dart [![Stars](https://img.shields.io/github/stars/kartikey321/fletch?style=social)](https://github.com/kartikey321/fletch) [![Pub](https://img.shields.io/pub/v/fletch?color=blue)](https://pub.dev/packages/fletch)
+Production HTTP framework with SSE, streaming, middleware. [Featured on Medium](https://medium.com/@kartikeymahawar1234/).
+```dart
+app.get('/api', (req, res) => res.json({'status': 'ok'}));
+```
+
+### 📦 [Knex Dart](https://github.com/kartikey321/knex-dart) - SQL Query Builder [![Pub](https://img.shields.io/pub/v/knex_dart?color=blue)](https://pub.dev/packages/knex_dart)
+Type-safe query builder with 100% Knex.js API parity. **268 tests** passing.
+
+### 💬 [Mongo Chat Dart](https://github.com/kartikey321/mongo-chat-dart) - Real-time Chat SDK
+Direct messages, group chats, read receipts, WebSocket streams for Dart backends.
+
+---
+
+## 💼 Professional Highlights
+
+**Lead Flutter Fullstack Developer @ Cladbe** (2024 - Present)
+- Cross-platform apps serving **10K+ daily users** (Web/iOS/Android/Desktop)
+- Built concurrent file upload system: **37% faster, 50% less memory, CPU 200%→50%**
+- Architected event-driven backend with gRPC, Kafka CDC, Neo4j GBAC
+
+**First Engineer @ Amiltus/Cladbe** (2023 - 2024)
+- Architected entire real-estate platform from ground up
+- Established CI/CD, Flutter best practices, and team scaling patterns
+
+**Software Developer Intern @ Wells Fargo** (2023)
+- ML-driven enterprise workflows with React, Socket.io, MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kartikey321&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kartikey321&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey321&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📝 Latest Writings
+
+- [Fletch: Building Production-Ready Backends in Dart](https://medium.com/@kartikeymahawar1234/)
+
+---
+
+## 📫 Let's Connect
+
+**Open to collaborations in:** Flutter/Dart backends • Real-time systems • Performance optimization • Open-source tooling
+
+💼 [LinkedIn](https://www.linkedin.com/in/kartikey-mahawar/) • 📧 [Email](mailto:kartikeymahawar1234@gmail.com) • 🌐 [Website](https://mahawarkartikey.in) • ✍️ [Medium](https://medium.com/@kartikeymahawar1234)
+
+---
+
+<div align="center">
+
+**If you find my work interesting, consider giving it a ⭐**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kartikey321&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
