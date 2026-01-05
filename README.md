@@ -24,7 +24,7 @@ Lead Flutter Fullstack Developer with **~3 years** of experience building high-p
 ## 🏆 Achievements
 
 ```
-🥇 GrabHack 2025 (Backend track) - 2nd Prize Winner (₹2,00,000)
+🥇 GrabHack 2025 (Backend track) - 2nd Prize Winner 
 🥇 Smart India Hackathon 2022 - 1st Prize Winner
 🥇 Defence Innovation Hackathon 2022 - 1st Prize Winner
 🥇 Nasscom Academic Grand Challenge (Wells Fargo) - 1st Prize
