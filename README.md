@@ -101,9 +101,9 @@ Direct messages, group chats, read receipts, WebSocket streams for Dart backends
 
 <div align="center">
   
-<img src="https://github-readme-stats-fast.vercel.app/api?username=kartikey321&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.kartikeymahawar1234.workers.dev/api?username=kartikey321&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kartikey321&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.kartikeymahawar1234.workers.dev/api/top-langs/?username=kartikey321&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey321&theme=radical&hide_border=true" alt="GitHub Streak" />
 
